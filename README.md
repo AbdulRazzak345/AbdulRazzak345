@@ -1,16 +1,23 @@
-## Hi there 👋
+# Abdul Razzak
 
-<!--
-**AbdulRazzak345/AbdulRazzak345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on React, Next.js, SaaS UI, and modern web applications.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* React.js
+* Next.js
+* TypeScript
+* Tailwind CSS
+* JavaScript
+* REST APIs
+
+## Currently Building
+
+* SaaS Dashboards
+* Modern Landing Pages
+* Business Web Applications
+* Responsive Frontend Interfaces
+
+## Portfolio Focus
+
+Modern, responsive, and scalable frontend development for startups and businesses.
